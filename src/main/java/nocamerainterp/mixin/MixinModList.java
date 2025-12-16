@@ -1,6 +1,6 @@
-package com.github.tr4k41s.nocamerainterp.mixin;
+package nocamerainterp.mixin;
 
-import com.github.tr4k41s.nocamerainterp.NoCameraInterp;
+import nocamerainterp.NoCameraInterp;
 import net.minecraft.client.Minecraft;
 import net.minecraftforge.fml.common.ModContainer;
 import net.minecraftforge.fml.common.network.handshake.FMLHandshakeMessage;

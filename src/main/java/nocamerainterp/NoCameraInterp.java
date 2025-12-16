@@ -1,4 +1,4 @@
-package com.github.tr4k41s.nocamerainterp;
+package nocamerainterp;
 
 import net.minecraftforge.fml.common.Mod;
 
