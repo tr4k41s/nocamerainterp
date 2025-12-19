@@ -23,9 +23,6 @@ public class MixinNetHandlerPlayClient {
             player.lastTickPosX = player.posX;
             player.lastTickPosY = player.posY;
             player.lastTickPosZ = player.posZ;
-            player.motionX = 0.0;
-            player.motionY = 0.0;
-            player.motionZ = 0.0;
         }
     }
 }
