@@ -1,7 +1,7 @@
 # No Camera Interpolation
 
 In technical terms:
-Removes the camera lerp found in 1.8.9 by forcing S08 packets to update your previous XYZ coordinates instantly instead of a smooth transition.
+Removes the camera larp found in 1.8.9 by forcing S08 packets to update your previous XYZ coordinates instantly instead of a smooth transition.
 
 In normal terms:
 Removes the camera position change delay in 1.8.9
